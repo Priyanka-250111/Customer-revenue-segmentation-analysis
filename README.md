@@ -44,7 +44,7 @@ SQL was used to transform raw transactional data into structured analytical outp
 
 ## Key SQL Outputs
 
-The following result files are stored inside the `SQL_Results` folder:
+The following result files are stored inside the `sql-results-folder`:
 
 - customer_revenue.csv
 - customer_segments.csv
