@@ -102,16 +102,21 @@ Percent Difference (Compute Using → Table Across)
 # 📸 Dashboard Preview
 
 ## Overall Dashboard
+<img width="1499" height="1199" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/5b24f59d-adeb-4762-9f01-5ef63ac378ae" />
+<img width="1499" height="1199" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/5b24f59d-adeb-4762-9f01-5ef63ac378ae" />
 
-![Dashboard Overview](images/dashboard_overview.png)
 
 ## Monthly Revenue Trend
 
-![Monthly Revenue](images/monthly_revenue_trend.png)
+<img width="1314" height="624" alt="Monthly revenue trend (1)" src="https://github.com/user-attachments/assets/387fbd02-2fa8-4a6a-9dac-9090a24eb958" />
+<img width="1314" height="624" alt="Monthly revenue trend (1)" src="https://github.com/user-attachments/assets/387fbd02-2fa8-4a6a-9dac-9090a24eb958" />
+
 
 ## Customer Segmentation
 
-![Segmentation Chart](images/segmentation_chart.png)
+<img width="1314" height="240" alt="Customer segmentation (1)" src="https://github.com/user-attachments/assets/a5c9add8-9f23-454c-9d28-1efd9cd20cc1" />
+<img width="1314" height="240" alt="Customer segmentation (1)" src="https://github.com/user-attachments/assets/a5c9add8-9f23-454c-9d28-1efd9cd20cc1" />
+
 
 ---
 
@@ -119,7 +124,7 @@ Percent Difference (Compute Using → Table Across)
 
 View Interactive Tableau Dashboard:
 
-(Add your Tableau Public link here)
+https://public.tableau.com/views/ecommerce_17710895780480/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -151,4 +156,5 @@ customer-revenue-segmentation-analysis/
 
 Priyanka Prasath  
 Aspiring Data Analyst
+Google Sheets | SQL | R | Tableau
 
