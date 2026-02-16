@@ -102,20 +102,20 @@ Percent Difference (Compute Using → Table Across)
 # 📸 Dashboard Preview
 
 ## Overall Dashboard
-<img width="1499" height="1199" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/5b24f59d-adeb-4762-9f01-5ef63ac378ae" />
-<img width="1499" height="1199" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/5b24f59d-adeb-4762-9f01-5ef63ac378ae" />
+<img width="1499" height="1199" alt="Dashboard 1" src="https://github.com/user-attachments/assets/3c93e114-9c76-4059-b459-36dd7e139e2d" />
+
 
 
 ## Monthly Revenue Trend
 
 <img width="1314" height="624" alt="Monthly revenue trend (1)" src="https://github.com/user-attachments/assets/387fbd02-2fa8-4a6a-9dac-9090a24eb958" />
-<img width="1314" height="624" alt="Monthly revenue trend (1)" src="https://github.com/user-attachments/assets/387fbd02-2fa8-4a6a-9dac-9090a24eb958" />
+
 
 
 ## Customer Segmentation
 
 <img width="1314" height="240" alt="Customer segmentation (1)" src="https://github.com/user-attachments/assets/a5c9add8-9f23-454c-9d28-1efd9cd20cc1" />
-<img width="1314" height="240" alt="Customer segmentation (1)" src="https://github.com/user-attachments/assets/a5c9add8-9f23-454c-9d28-1efd9cd20cc1" />
+
 
 
 ---
